@@ -1,0 +1,5 @@
+require("config/monitors")
+require("config/wallpaper")
+require("config/default_programs")
+require("config/keybinds")
+require("config/autostart")
