@@ -8,7 +8,7 @@ require("config/window_decorations")
 
 hl.config({
 	input = {
-		kb_layout	= "es",
+		kb_layout	= "us",
 		follow_mouse	= 0
 	}
 })
