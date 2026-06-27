@@ -5,6 +5,9 @@ require("config/keybinds")
 require("config/autostart")
 require("config/windows")
 require("config/decorations")
+require("config/window_snapping")
+
+
 
 hl.config({
 	input = {
