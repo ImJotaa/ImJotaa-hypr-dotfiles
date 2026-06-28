@@ -1,0 +1,9 @@
+* {
+    font-size: 13px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: #1a1a22;   /* temporal, solo para VER la barra */
+    color: #ffffff;
+}
