@@ -15,10 +15,8 @@ hl.config({
 
 
 -- WINDOW BEHAVIOUR --
-hl.window_rule({ match = { class = ".*" }, float = true })
-
--- Set location for the new windows
-
+hl.config({ general = { layout = "dwindle" } })
+hl.config({ dwindle = { preserve_split = true } })
 
 -- WINDOW SIZE --
 hl.window_rule({ match = { float = true }, size = {1200, 600} })
